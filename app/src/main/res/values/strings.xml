@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DayNightDemo</string>
+
+    <string-array name="tips">
+        <item>tip:走起走起!开车开车!!</item>
+        <item>tip:社会主义核心价值观!</item>
+        <item>tip:不要总想搞个大新闻!</item>
+        <item>tip:我也很想自带一些车牌号的...但是...不过...</item>
+        <item>tip:营养快线????</item>
+        <item>tip:我也不晓得这个界面为啥子是这个颜色!</item>
+    </string-array>
+</resources>
