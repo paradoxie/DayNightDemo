@@ -7,7 +7,7 @@
 
 ## 上效果
 
-![我是图](还没有链接)
+![我是图](http://odpd0x6u7.bkt.clouddn.com/DayNightDemo.gif)
 
 ## 实践
 
